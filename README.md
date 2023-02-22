@@ -6,4 +6,4 @@
 - 🔭 I’m currently working on a few different projects (both wet and dry lab) in the Kaplan Lab at Tufts University
 - 🌱 I’m currently taking classes in CS and Mathematics at Tufts University
 - 🤔 At this moment, I'm planning on going back to school for a masters degree in bioinformatics or computational biology
-- 📫 How to reach me: bromberg.benji@gmail.com
+- 📫 How to reach me: bromberg.benji@gmail.com or benjamin.bromberg@tufts.edu
