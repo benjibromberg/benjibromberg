@@ -1,6 +1,6 @@
 ### Hi, I'm Benji Bromberg
 
-Research technician at the [Tufts University Center for Cellular Agriculture](https://cellularagriculture.tufts.edu/) (Kaplan Lab). BS in Biochemistry and Molecular Biology from Lewis & Clark College, MS in Computer Science from Tufts.
+Research Technician at the [Tufts University Center for Cellular Agriculture](https://cellularagriculture.tufts.edu/) (Kaplan Lab). MS in Computer Science from Tufts University, BS in Biochemistry and Molecular Biology from Lewis & Clark College.
 
 I started my work in the wet lab (primarily cell line development for fish, crusteceans, and avians), but I've transitioned into computational biology and bioinformatics. Now I build pipelines and tools to support the lab's computational research. I also founded our lab's [GitHub organization](https://github.com/tucca-cellag) to centralize our computational projects.
 
